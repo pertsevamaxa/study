@@ -1,8 +1,16 @@
 body {
     margin: 0;
     background: peachpuff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
 }
 
 h1 {
     color: #171717;
+}
+
+p {
+    color: gold;
 }
